@@ -1,1 +1,1 @@
-# gestion-budget-personnel
+pip install pandas matplotlib
